@@ -1,2 +1,2 @@
 #!/bin/bash
-cp [[:upper:]]* /tmp/u
+for file in [A-Z]*; do mv "$file" /tmp/u/; echo "Moved $file to /tmp/u/"; done
