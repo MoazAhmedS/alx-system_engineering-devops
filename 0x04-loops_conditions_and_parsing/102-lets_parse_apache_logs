@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #lets_parse_apache_logs done
-gwk '{print $1 " " $9}' apache-access.log
+
+awk '{print $1 " " $9}' apache-access.log
