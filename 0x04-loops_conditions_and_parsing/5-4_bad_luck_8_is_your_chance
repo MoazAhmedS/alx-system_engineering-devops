@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#4_bad_luck_8_is_your_chance done
 count=0
 
 while [ $count -lt 10 ]

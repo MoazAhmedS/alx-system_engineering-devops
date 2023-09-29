@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#superstitious_numbers done
 count=1
 
 while [ $count -le 20 ]

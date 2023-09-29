@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#if_9_say_hi done
 count=0
 
 while [ $count -lt 10 ]
