@@ -4,9 +4,6 @@ Function to query subscribers on a given Reddit subreddit.
 """
 import requests
 
-"""
-Function to query subscribers on a given Reddit subreddit.
-"""
 
 def number_of_subscribers(subreddit):
     """
